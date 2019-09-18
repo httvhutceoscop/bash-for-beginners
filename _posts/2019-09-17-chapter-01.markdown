@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Chương 1 - Bash and Bash scripts"
+date:   2019-09-17 17:25:07 +0700
+categories: bash
+---
+Bash Guide for Beginners
+Prev        Next
+
+# Chapter 1. Bash and Bash scripts
+## Table of Contents
+
+1. [Common shell programs](https://toilamit.com)
+
+    1.1. General shell functions
+
+    1.2. Shell types
+
+2. Advantages of the Bourne Again SHell
+
+    2.1. Bash is the GNU shell
+
+    2.2. Features only found in bash
+
+3. Executing commands
+
+    3.1. General
+
+    3.2. Shell built-in commands
+
+    3.3. Executing programs from a script
+
+4. Building blocks
+
+5. Developing good scripts
+
+    5.1. Properties of good scripts
+
+    5.2. Structure
+
+    5.3. Terminology
+
+    5.4. A word on order and logic
+
+    5.5. An example Bash script: mysystem.sh
+
+    5.6. Example init script
+
+6. Summary
+
+7. Exercises
+
+    In this introduction module we
+
+    - Describe some common shells
+
+    - Point out GNU Bash advantages and features
+
+    - Describe the shell's building blocks
+
+    - Discuss Bash initialization files
+
+    - See how the shell executes commands
+
+    - Look into some simple script examples
+
+Prev    Home    Next
+Organization of this document       Common shell programs
