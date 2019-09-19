@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Chương 1 - Bash and Bash scripts"
-date:   2019-09-17 17:25:07 +0700
+subtitle: "This is the post subtitle."
+date:   2019-09-17 17:25:07
 categories: bash
+background: '/img/posts/01.jpg'
 ---
-Bash Guide for Beginners
-Prev        Next
 
 # Chapter 1. Bash and Bash scripts
 ## Table of Contents

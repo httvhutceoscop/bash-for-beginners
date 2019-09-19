@@ -25,15 +25,29 @@ email: toilamitdotcom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chia sẻ các kiến thức từ bản thân hoặc dịch được từ các nguồn cho người
   mới bắt đầu và làm quen với bash trong môi trường LINUX.
+author: Viet NT
 baseurl: "/bash-for-beginners" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://httvhutceoscop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social Profiles
 twitter_username: httv_hut
 github_username:  httvhutceoscop
+facebook_username:
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
