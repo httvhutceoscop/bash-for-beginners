@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# --- General options --- #
+
 title: Bash For Beginners
 email: toilamitdotcom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chia sẻ các kiến thức từ bản thân hoặc dịch được từ các nguồn cho người
   mới bắt đầu và làm quen với bash trong môi trường LINUX.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bash-for-beginners" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: httv_hut
 github_username:  httvhutceoscop
