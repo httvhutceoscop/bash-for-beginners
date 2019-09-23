@@ -1,0 +1,7 @@
+pre.highlight {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f6f8fa;
+    overflow: auto;
+    font-size: 85%;
+}

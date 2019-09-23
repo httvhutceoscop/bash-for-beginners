@@ -36,14 +36,15 @@ facebook_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-48430890-6
 
 # Build settings
 # theme: jekyll-theme-clean-blog
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+highlighter: rouge
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
